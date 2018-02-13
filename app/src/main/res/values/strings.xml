@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarMovie</string>
+    <string name="image">Image</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
